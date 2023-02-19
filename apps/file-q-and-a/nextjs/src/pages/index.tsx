@@ -18,7 +18,7 @@ export default function FileQandA() {
 
         <div className="">
           To search for answers from the content in your files, upload them here
-          and we will use OpenAI embeddings and GPT to find answers from the
+          and the Oracle will find answers from the
           relevant documents.
         </div>
 
